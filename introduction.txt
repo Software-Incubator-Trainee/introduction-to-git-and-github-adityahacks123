@@ -1,3 +1,11 @@
 Hello everyone!!
 This is Aditya Singh.
 My branch is ECE.
+
+
+
+Skills-
+HTML,CSS,BASIC JS
+DSA
+Hobbies-
+Football
